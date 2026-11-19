@@ -1,18 +1,6 @@
-# 🚀 C++ Mastery
+<p align="center">   <strong>A Complete C++ Learning & Revision Repository</strong>   <br />   From Fundamentals to Advanced C++, Data Structures & Algorithms, STL, and Competitive Programming. </p>
 
-\<p align="center">
-&#x20; \*\*A Complete C++ Learning & Revision Repository\*\*
-&#x20; \<br/>
-&#x20; From Fundamentals to Advanced C++, Data Structures & Algorithms, STL, and Competitive Programming.
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge\&logo=cplusplus)" />
-&#x20; \<img src="[https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Learning%20%7C%20Revision%20%7C%20DSA-orange?style=for-the-badge](https://img.shields.io/badge/Focus-Learning%20%7C%20Revision%20%7C%20DSA-orange?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Continuously%20Improving-purple?style=for-the-badge](https://img.shields.io/badge/Status-Continuously%20Improving-purple?style=for-the-badge)" />
-\</p>
-
+<p align="center">   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="C++" />   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge" alt="Level" />   <img src="https://img.shields.io/badge/Focus-Learning%20%7C%20Revision%20%7C%20DSA-orange?style=for-the-badge" alt="Focus" />   <img src="https://img.shields.io/badge/Status-Continuously%20Improving-purple?style=for-the-badge" alt="Status" /> </p>
 ---
 
 ## 📖 About This Repository
